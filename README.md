@@ -2,7 +2,7 @@
 
 Desafio de Projeto
 
-Neste repositório, apresento o desafio atendido em PDF, onde o arquivo "Desafio_Dashboard de Vendas no Power BI.pdf" encontra-se na pasta "Aula 2 - Fundamentos de BI_desafio"
+Neste repositório, apresento o desafio atendido em PDF, onde o arquivo "Desafio_Dashboard de Vendas no Power BI.pdf" encontra-se na pasta "Aula 2 - Fundamentos de BI_Desafio de Projeto"
 
 O arquivo referente ao desafio tem 3 páginas, as duas primeiras com os gráficos desenvolvidos em aula e terceira página com os gráficos baseado nas premissas descritas abaixo., são elas:
 
